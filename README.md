@@ -4,7 +4,7 @@
 | -------------  | --- |
 | :sparkles: Nome        | **Encontre o Metamorfo - Among Us**
 | :label: Tecnologias | React, Typescript, Styled Components, Vite
-| :rocket: URL         | https://among-us-shapeshifter.vercel.app/
+| :rocket: URL         | https://among-us-dun.vercel.app/
 
 ![](https://github.com/wendeldh7)
 
